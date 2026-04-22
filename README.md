@@ -78,7 +78,7 @@ project/
 
 ```bash
 git clone https://github.com/parthipkrishna1/gesture-ui.git
-cd YOUR_REPO
+cd gesture-ui
 ```
 
 2. Install dependencies:
@@ -98,6 +98,8 @@ python main.py
 ## 🧪 Debug Mode
 
 The project includes optional debug overlays to visualize interaction zones.
+
+![Debug Zones](assets/debug.png)
 
 Uncomment the following block in the code to enable:
 
