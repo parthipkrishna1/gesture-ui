@@ -5,6 +5,10 @@ Control a UI carousel with hand movements, lock interactions with a fist, and tr
 
 ---
 
+## 🎥 Demo
+
+[Watch Demo](https://youtu.be/maI_ni-SWso)
+
 ## 🚀 Features
 
 * ✋ **Gesture-Based Control**
