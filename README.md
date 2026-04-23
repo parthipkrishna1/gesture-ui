@@ -59,12 +59,24 @@ project/
 │   ├── superman.png
 │   ├── wonderwoman.png
 │   ├── flash.png
+│   ├── debug.png
+│   ├── Orbitron-VariableFont_wght.ttf
+│   │
 │   └── holo/
 │       ├── batman/
 │       ├── superman/
 │       ├── wonderwoman/
 │       └── flash/
 │
+├── utils/
+│   ├── __pycache__/
+│   ├── assets.py
+│   ├── drawing.py
+│   ├── effects.py
+│   └── gestures.py
+│
+├── venv/
+├── config.py
 ├── main.py
 ├── README.md
 └── .gitignore
